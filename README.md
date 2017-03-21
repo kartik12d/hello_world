@@ -1,2 +1,3 @@
-# hello_world
-this is my new project
+# Hello_world
+This is my new project
+I am new guy in web devlopment
